@@ -1,0 +1,5 @@
+{
+  "name": "Mississippi Food Resource Map",
+  "description": "A GIS application to locate food resources in Purvis and Hattiesburg, MS, featuring location clustering and filtering.",
+  "requestFramePermissions": ["geolocation"]
+}
